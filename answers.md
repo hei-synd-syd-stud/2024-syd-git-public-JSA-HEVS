@@ -26,7 +26,7 @@ I can stage the README with the newly added information, but the staged one didn
 - After the ()? IDK
 
 ### Task 6
-
+When i checked out the first commit, the files in my repo folder where like in the very beginning. And then when i checked out my last main changes, the files in my repo folder where there with my lastest changes.
 
 ## Gitgraph
 
