@@ -20,8 +20,13 @@ Now we have a "staged file" with our ReadMe in.
 I can stage the README with the newly added information, but the staged one didn't change.
 
 ### Task 5
+- The first lign of the commit is the commit hash, its unique signature.
+- HEAD refers to the currently checked-out branch's latest commit
+- main refers to the main branch
+- After the ()? IDK
 
 ### Task 6
+
 
 ## Gitgraph
 
