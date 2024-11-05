@@ -32,11 +32,13 @@ When i checked out the first commit, the files in my repo folder where like in t
 Here is my graph:
 
 ![Repo](img/Task6.png)
+
 I made a few mistakes along the way, thats why i have dev03, and i could name my commits better.
 
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+List:
     1. Branch Name
     2. Commit Hash
     3. Merge Message
