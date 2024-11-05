@@ -23,13 +23,27 @@ I can stage the README with the newly added information, but the staged one didn
 - The first lign of the commit is the commit hash, its unique signature.
 - HEAD refers to the currently checked-out branch's latest commit
 - main refers to the main branch
-- After the ()? IDK
+- After the () -> Shows where we are at at the moment
 
 ### Task 6
 When i checked out the first commit, the files in my repo folder where like in the very beginning. And then when i checked out my last main changes, the files in my repo folder where there with my lastest changes.
 
 ## Gitgraph
+Here is my graph:
+
+![Repo](img/Task6.png)
+I made a few mistakes along the way, thats why i have dev03, and i could name my commits better.
 
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+    1. Branch Name
+    2. Commit Hash
+    3. Merge Message
+    4. Author
+    5. Tag/Version
+    6. Final commit
+    7. New branch from point 8
+    8. Main branch with checked out branch
+    9. New branch from original
+    10. Original commit
