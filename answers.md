@@ -34,6 +34,7 @@ Here is my graph:
 ![Repo](img/Task6.png)
 
 I made a few mistakes along the way, thats why i have dev03, and i could name my commits better.
+Now everything has been committed.
 
 ### Task 7
 
