@@ -23,7 +23,7 @@ I can stage the README with the newly added information, but the staged one didn
 - The first lign of the commit is the commit hash, its unique signature.
 - HEAD refers to the currently checked-out branch's latest commit
 - main refers to the main branch
-- After the () -> Shows where we are at at the moment
+- After the () -> Shows the commit message
 
 ### Task 6
 When i checked out the first commit, the files in my repo folder where like in the very beginning. And then when i checked out my last main changes, the files in my repo folder where there with my lastest changes.
